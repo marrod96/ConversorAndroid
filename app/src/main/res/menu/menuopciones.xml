@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Moneda"
+        android:title="Moneda" />
+    <item
+        android:id="@+id/Energia"
+        android:title="Energía" />
+    <item
+        android:id="@+id/Temperatura"
+        android:title="Temperatura" />
+
+</menu>
